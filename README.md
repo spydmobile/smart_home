@@ -1,3 +1,6 @@
+![Licence Badge](https://img.shields.io/github/license/spydmobile/smart_home?logo=github&style=plastic)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/spydmobile/smart_home?logo=github&style=plastic)
+
 # smart_home
 ## Navigation
 
